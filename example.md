@@ -27,3 +27,5 @@ fringilla, vel pulvinar turpis semper. Phasellus et neque efficitur diam ultrice
 ## Footer
 
 Git basics workshops: repositories, viewing history, branches, reverting changes, merging, conflicts
+
+>Author Krysztof Kaczyński
