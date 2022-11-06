@@ -23,3 +23,7 @@ velit, in iaculis mauris purus eu sapien. Cras tincidunt condimentum eros, a ege
 viverra, odio in commodo dictum, ante ante bibendum ante, vel rhoncus erat erat et lectus. Nulla feugiat sapien id
 mauris convallis sollicitudin. Pellentesque condimentum sem sed ultricies vehicula. Quisque condimentum purus et turpis
 fringilla, vel pulvinar turpis semper. Phasellus et neque efficitur diam ultrices feugiat. Fusce at porta diam.
+
+## Footer
+
+Git basics workshops: repositories, viewing history, branches, reverting changes, merging, conflicts
