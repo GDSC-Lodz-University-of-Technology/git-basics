@@ -1,6 +1,7 @@
 # Git basics
 
 >Git basics workshops
+>This workshop should take approximately 1.5h
 
 ## Paragraph 1
 
