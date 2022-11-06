@@ -43,3 +43,4 @@ You should also know the most important features of GitHub platform.
 ## Resources
 
 - Learn how to use GitHub with interactive courses designed for beginners and experts **_[GitHub Skills](https://skills.github.com/)_**
+- Learn git by playing computer game **_[Learn Git Branching](https://learngitbranching.js.org/)_**
