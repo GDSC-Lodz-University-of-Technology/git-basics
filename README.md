@@ -4,7 +4,7 @@
 
 Before you will use this repository make sure that you have installed:
 
-- **_Git_**
+- ***Git***
 
   - If you are a **Windows** or **macOS** user visit this link **[Downloading Git](https://git-scm.com/download)**
     then download appropriate installer and install it.
@@ -15,7 +15,7 @@ Before you will use this repository make sure that you have installed:
     sudo pacman -S git
     ```
 
-- **_GitHub_**
+- ***GitHub***
 
   - Create a free account on GitHub. You can find registration form under this
     link **[Create GitHub account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)**
@@ -38,9 +38,13 @@ everything correctly open your terminal git-bash and run the following commands:
 ## Workshops aim
 
 At the end of this workshop, you should have a basic understanding git.
-You should also know the most important features of GitHub platform. 
+You should also know the most important features of GitHub platform.
 
 ## Resources
 
-- Learn how to use GitHub with interactive courses designed for beginners and experts **_[GitHub Skills](https://skills.github.com/)_**
-- Learn git by playing computer game **_[Learn Git Branching](https://learngitbranching.js.org/)_**
+- Learn how to use GitHub with interactive courses designed for beginners and
+  experts ***[GitHub Skills](https://skills.github.com/)***
+- Learn Git by playing computer game ***[Learn Git Branching](https://learngitbranching.js.org/)***
+- Video Git tutorial in
+  polish ***[Kurs Git po polsku od podstaw](https://www.youtube.com/watch?v=D6EI7EbEN4Q&list=PLjHmWifVUNMKIGHmaGPVqSD-L6i1Zw-MH&index=1)***
+- Git documentation ***[Gid Documentation](https://git-scm.com/doc)***
