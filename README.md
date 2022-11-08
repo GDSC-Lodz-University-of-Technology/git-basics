@@ -48,3 +48,6 @@ You should also know the most important features of GitHub platform.
 - Video Git tutorial in
   polish ***[Kurs Git po polsku od podstaw](https://www.youtube.com/watch?v=D6EI7EbEN4Q&list=PLjHmWifVUNMKIGHmaGPVqSD-L6i1Zw-MH&index=1)***
 - Git documentation ***[Gid Documentation](https://git-scm.com/doc)***
+- Set of rules how to write good commit
+  messages ***[Conventional commit](https://www.conventionalcommits.org/en/v1.0.0-beta.4/)***
+- Markdown syntax, used to create documentation ***[Basic Syntax](https://www.markdownguide.org/basic-syntax/)***
