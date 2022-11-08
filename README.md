@@ -51,3 +51,20 @@ You should also know the most important features of GitHub platform.
 - Set of rules how to write good commit
   messages ***[Conventional commit](https://www.conventionalcommits.org/en/v1.0.0-beta.4/)***
 - Markdown syntax, used to create documentation ***[Basic Syntax](https://www.markdownguide.org/basic-syntax/)***
+
+## Git tree alias
+
+If you would like to use same formatting for logging git tree in terminal you can use this configuration:
+
+```bash
+git log --graph --pretty=format:'%Cred%H%Creset %C(yellow)%d%Creset %n %s %n %C(bold blue)<%an>%Creset %Cgreen(%cs, %cr)' --abbrev-commit --date=relative --branches
+```
+
+You can also save this command under *[alias](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases)* to make easier to
+use in the future
+
+```bash
+git config --global alias.tree "log --graph --pretty=format:'%Cred%H%Creset %C(yellow)%d%Creset %n %s %n %C(bold blue)<%an>%Creset %Cgreen(%cs, %cr)' --abbrev-commit --date=relative --branches"
+```
+
+> Now you can run `git tree` to see the results
